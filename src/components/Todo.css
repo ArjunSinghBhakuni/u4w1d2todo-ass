@@ -1,0 +1,21 @@
+.striked{
+ font-weight: 100;
+ text-decoration: line-through;
+}
+
+.none{
+  text-decoration: none;
+  
+}
+.lists{
+ margin: auto;
+ 
+ width: 250px;
+ height: 20px;
+ display: flex;
+ box-sizing: border-box;
+ 
+}
+.lists button{
+  margin-left: 60%;
+}
